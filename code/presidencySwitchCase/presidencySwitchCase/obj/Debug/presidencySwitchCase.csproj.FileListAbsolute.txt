@@ -1,0 +1,6 @@
+C:\Users\student\shivani\code\presidencySwitchCase\presidencySwitchCase\bin\Debug\presidencySwitchCase.exe.config
+C:\Users\student\shivani\code\presidencySwitchCase\presidencySwitchCase\bin\Debug\presidencySwitchCase.exe
+C:\Users\student\shivani\code\presidencySwitchCase\presidencySwitchCase\bin\Debug\presidencySwitchCase.pdb
+C:\Users\student\shivani\code\presidencySwitchCase\presidencySwitchCase\obj\Debug\presidencySwitchCase.csprojResolveAssemblyReference.cache
+C:\Users\student\shivani\code\presidencySwitchCase\presidencySwitchCase\obj\Debug\presidencySwitchCase.exe
+C:\Users\student\shivani\code\presidencySwitchCase\presidencySwitchCase\obj\Debug\presidencySwitchCase.pdb

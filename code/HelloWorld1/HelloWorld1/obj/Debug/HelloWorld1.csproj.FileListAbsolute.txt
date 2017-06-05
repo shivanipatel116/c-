@@ -1,0 +1,6 @@
+C:\Users\student\shivani\code\HelloWorld1\HelloWorld1\bin\Debug\HelloWorld1.exe.config
+C:\Users\student\shivani\code\HelloWorld1\HelloWorld1\bin\Debug\HelloWorld1.exe
+C:\Users\student\shivani\code\HelloWorld1\HelloWorld1\bin\Debug\HelloWorld1.pdb
+C:\Users\student\shivani\code\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.csprojResolveAssemblyReference.cache
+C:\Users\student\shivani\code\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.exe
+C:\Users\student\shivani\code\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.pdb
