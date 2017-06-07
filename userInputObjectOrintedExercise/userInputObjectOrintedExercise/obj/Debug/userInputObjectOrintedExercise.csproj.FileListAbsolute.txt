@@ -1,0 +1,6 @@
+C:\Users\student\shivani\code\userInputObjectOrintedExercise\userInputObjectOrintedExercise\bin\Debug\userInputObjectOrintedExercise.exe.config
+C:\Users\student\shivani\code\userInputObjectOrintedExercise\userInputObjectOrintedExercise\bin\Debug\userInputObjectOrintedExercise.exe
+C:\Users\student\shivani\code\userInputObjectOrintedExercise\userInputObjectOrintedExercise\bin\Debug\userInputObjectOrintedExercise.pdb
+C:\Users\student\shivani\code\userInputObjectOrintedExercise\userInputObjectOrintedExercise\obj\Debug\userInputObjectOrintedExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\shivani\code\userInputObjectOrintedExercise\userInputObjectOrintedExercise\obj\Debug\userInputObjectOrintedExercise.exe
+C:\Users\student\shivani\code\userInputObjectOrintedExercise\userInputObjectOrintedExercise\obj\Debug\userInputObjectOrintedExercise.pdb
